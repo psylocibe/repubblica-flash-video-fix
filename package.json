@@ -1,0 +1,28 @@
+{
+  "name": "repubblica-flash-video-fix",
+  "version": "0.1.0",
+  "description": "Converts Repubblica.it Flash videos into HTML5 videos.",
+  "main": "bookmarklet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Artuso <sam@highoctanedev.co.uk>",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samuele-artuso/repubblica-flash-video-fix.git"
+  },
+  "keywords": [
+    "bookmarklet",
+    "repubblica",
+    "video",
+    "fix"
+  ],
+  "bugs": {
+    "url": "https://github.com/samuele-artuso/repubblica-flash-video-fix/issues"
+  },
+  "homepage": "https://github.com/samuele-artuso/repubblica-flash-video-fix#readme",
+  "devDependencies": {
+    "grunt-bookmarklet-thingy": "^0.2.0"
+  }
+}
